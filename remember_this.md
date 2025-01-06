@@ -1,4 +1,4 @@
-### Working on a Collabrative Project in which mutiple peoples are working and while creating a new branch you made changes in previous branch and did not pull the latest changes here are the commands 
+### Before working on a collabrative Project in which mutiple peoples are working and there are multiple branch so before creating new branch take the lates pull and then start the new branch
 
 2. `git pull origin <current_branch_name>` 
 ### create new branch
